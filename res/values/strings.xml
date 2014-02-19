@@ -3,6 +3,13 @@
 
     <string name="app_name">InshanFieldWire</string>
     <string name="action_settings">Settings</string>
+    <string name="ac_name_grid">Grid View</string>
+    <string name="search_label">Search Google Images</string>
+    <string name="search_submit_label">Submit</string>
+    <string name="title_activity_inshan_grid">InshanGrid</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="title_activity_image_pager">ImagePagerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+  	<string name="descr_image">Image</string>
 </resources>
